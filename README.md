@@ -20,6 +20,7 @@ Plant a fig tree for any area of your life, then grow each idea on it as a **fig
 - **Ripe** — ready for action
   
 Users can also build a sub-branch off of any fig tree to further grow their ideas.
+
 ---
 
 ## Built With
@@ -30,14 +31,6 @@ Users can also build a sub-branch off of any fig tree to further grow their idea
 
 ---
 
-## Try It
-
-[**Open Fig Tree →**](https://www.figma.com/make/Xg0OAxlVjMspf0wtB64ap1/Fig-Tree?code-node-id=0-9&p=f&t=NULrDwI0fcA8HRcx-0&fullscreen=1)
-[**View Product Demo Here →**](https://www.instagram.com/reel/DZu_bEpPLeU/)
-
-
----
-
 ## Process
 
 The design system was built entirely in Figma Design before any prototyping began, establishing a visual language that felt organic and alive. Backgrounds were created from stock images using a bitmap tool. Icons were created in Adobe Illustrator.
@@ -45,3 +38,14 @@ The design system was built entirely in Figma Design before any prototyping bega
 The product demo opening animation was hand-drawn frame by frame in Procreate, then composited in Illustrator and Photoshop.
 
 Figma Make brought the static designs to life as an interactive, shareable prototype, making it possible to actually *use* Fig Tree, not just look at it.
+
+---
+
+## Try It
+
+[**Open Fig Tree →**](https://www.figma.com/make/Xg0OAxlVjMspf0wtB64ap1/Fig-Tree?code-node-id=0-9&p=f&t=NULrDwI0fcA8HRcx-0&fullscreen=1)
+
+[**View Product Demo Here →**](https://www.instagram.com/reel/DZu_bEpPLeU/)
+
+
+
